@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#this is first
 int fact(int num)
 {
     int res;
